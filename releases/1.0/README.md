@@ -11,7 +11,7 @@
 - chrome: chromedriver.exe path
 - url: promotion url in the instagram
 - friends: how many friends to mark per message
-3. Save a list of your instagram friends as <strong>followinglist.csv</strong> .The file must be saved in the same folder as InstaGambler , and the format is of one friend per line (in other words A1, A2, A3... in spreadsheet cells)
+3. Save a list of your instagram friends as <strong>followinglist.csv</strong> .The file must be saved in the same folder as InstaGambler , and the format is of one friend per line (in other words A1, A2, A3... in spreadsheet cells). Try this solution <a href="http://zasasa.com/en/export_instagram_followers_list.php">here</a>
 
 ## Run
 1. Run params.cmd
