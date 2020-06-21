@@ -15,5 +15,5 @@
 
 ## Run
 1. Run params.cmd
-2. Insert the username and password of intagram when required
+2. Insert your Instagram's username and password when required
 3. Sit and relax
